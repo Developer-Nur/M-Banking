@@ -15,7 +15,7 @@ m_banking_client/*.local
 
 # Editor directories and files
 m_banking_client/.vscode/*
-!m_banking_client/.vscode/extensions.json
+m_banking_client/.vscode/extensions.json
 m_banking_client/.idea/
 m_banking_client/.DS_Store
 m_banking_client/*.suo
