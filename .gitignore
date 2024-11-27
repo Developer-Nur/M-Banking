@@ -1,0 +1,25 @@
+# Logs
+m_banking_client/logs/
+m_banking_client/*.log
+m_banking_client/npm-debug.log*
+m_banking_client/yarn-debug.log*
+m_banking_client/yarn-error.log*
+m_banking_client/pnpm-debug.log*
+m_banking_client/lerna-debug.log*
+
+# Dependencies
+m_banking_client/node_modules/
+m_banking_client/dist/
+m_banking_client/dist-ssr/
+m_banking_client/*.local
+
+# Editor directories and files
+m_banking_client/.vscode/*
+!m_banking_client/.vscode/extensions.json
+m_banking_client/.idea/
+m_banking_client/.DS_Store
+m_banking_client/*.suo
+m_banking_client/*.ntvs*
+m_banking_client/*.njsproj
+m_banking_client/*.sln
+m_banking_client/*.sw?
